@@ -9,7 +9,7 @@ This Jupyter notebook implements time series forecasting using SARIMAX (Seasonal
 - Time series decomposition and seasonality analysis
 - Model parameter selection using ACF and PACF
 - SARIMAX model training and forecasting
-- Model evaluation using RMSE, MSE, MAE and Theil's U-statistic
+- Model evaluation using RMSE, MSE, MAE, and Theil's U-statistic
 - Residual analysis and diagnostic tests
 
 ## Contents
